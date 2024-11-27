@@ -1,0 +1,1 @@
+Each folder contains the training code and evaluation code for that respective GAN. The trained models can be found here: https://drive.google.com/drive/folders/1unEdWbiIHaAp-G1Cl4BORA6lTVu2N51b?usp=sharing
